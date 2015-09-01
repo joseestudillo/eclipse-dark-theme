@@ -2,7 +2,16 @@
 
 Improvements for the default Eclipse dark theme.
 
-It has only be tested on a Mac.
+It has only been tested on a Mac.
+
+# Quick installation
+
+Clone the project into your work space. Guessing that the project have been cloned in to the directory `eclipse` type the following:
+
+```bash
+cd eclipse
+cp -R .metadata ../
+```
 
 # Use
 
