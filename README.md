@@ -20,3 +20,8 @@ Overwrite the `.metadata` folder in your workspace. Notice that this will comple
 # Known Issues
 
 The scroll bars still white. This can be only seen if a mouse is used.
+
+# Files
+
+Eclipse editor file association config: `.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs`
+
